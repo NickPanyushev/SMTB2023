@@ -1,0 +1,40 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20230705)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.7942786 Released 2023-05-10
+Analyzed List:	Client Text Box Input (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Homo sapiens - REFLIST (20589)	Client Text Box Input (18970)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (raw P-value)	Client Text Box Input (FDR)
+anatomical structure development (GO:0048856)	5201	5162	4792.02	+	1.08	1.05E-05	1.02E-02
+negative regulation of cellular process (GO:0048523)	4705	4666	4335.03	+	1.08	4.67E-05	3.02E-02
+developmental process (GO:0032502)	5702	5654	5253.63	+	1.08	3.70E-06	4.79E-03
+negative regulation of biological process (GO:0048519)	5320	5270	4901.67	+	1.08	1.34E-05	1.10E-02
+positive regulation of cellular process (GO:0048522)	5511	5454	5077.65	+	1.07	1.10E-05	9.52E-03
+cellular component organization (GO:0016043)	5560	5487	5122.79	+	1.07	2.13E-05	1.50E-02
+cellular component organization or biogenesis (GO:0071840)	5774	5697	5319.97	+	1.07	1.38E-05	1.07E-02
+positive regulation of biological process (GO:0048518)	6219	6128	5729.97	+	1.07	6.92E-06	7.68E-03
+multicellular organismal process (GO:0032501)	6713	6587	6185.13	+	1.06	8.49E-06	8.79E-03
+regulation of primary metabolic process (GO:0080090)	5825	5714	5366.96	+	1.06	6.43E-05	3.70E-02
+cellular metabolic process (GO:0044237)	5828	5715	5369.72	+	1.06	7.07E-05	3.92E-02
+regulation of metabolic process (GO:0019222)	6719	6588	6190.66	+	1.06	1.09E-05	9.94E-03
+regulation of macromolecule metabolic process (GO:0060255)	6188	6066	5701.41	+	1.06	3.71E-05	2.51E-02
+primary metabolic process (GO:0044238)	7165	7022	6601.59	+	1.06	4.53E-06	5.42E-03
+nitrogen compound metabolic process (GO:0006807)	6614	6480	6093.91	+	1.06	1.80E-05	1.33E-02
+cellular process (GO:0009987)	14672	14272	13518.28	+	1.06	4.77E-19	2.47E-15
+regulation of biological process (GO:0050789)	11806	11458	10877.64	+	1.05	6.59E-10	1.28E-06
+regulation of cellular process (GO:0050794)	11039	10710	10170.96	+	1.05	1.39E-08	2.40E-05
+biological regulation (GO:0065007)	12228	11863	11266.46	+	1.05	1.51E-10	3.92E-07
+metabolic process (GO:0008152)	8086	7830	7450.16	+	1.05	5.05E-05	3.14E-02
+biological_process (GO:0008150)	17812	16986	16411.37	+	1.04	1.80E-20	1.40E-16
+immune response (GO:0006955)	1649	1317	1519.33	-	.87	5.97E-05	3.57E-02
+Unclassified (UNCLASSIFIED)	2777	1984	2558.63	-	.78	1.80E-20	2.80E-16
+adaptive immune response (GO:0002250)	672	353	619.16	-	.57	8.40E-19	3.26E-15
+B cell mediated immunity (GO:0019724)	187	97	172.30	-	.56	2.92E-06	4.12E-03
+immunoglobulin mediated immune response (GO:0016064)	182	92	167.69	-	.55	1.45E-06	2.25E-03
+production of molecular mediator of immune response (GO:0002440)	146	52	134.52	-	.39	4.77E-10	1.06E-06
+immunoglobulin production (GO:0002377)	141	47	129.91	-	.36	1.48E-10	4.59E-07
